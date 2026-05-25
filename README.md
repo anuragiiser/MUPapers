@@ -22,7 +22,7 @@ Latest machine unlearning papers
 - [LLM Unlearning with LLM Beliefs](https://iclr.cc/virtual/2026/papers.html)
 - [Reinforcement Unlearning via Group Relative Policy Optimization](https://iclr.cc/virtual/2026/poster/10010919)
 
-## Neurips 2025
+## NeurIPS 2025
 - [CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models](https://papers.neurips.cc/paper_files/paper/2025/hash/769736dfbf6a1f64b4d2ab5c82c3d5e2-Abstract-Conference.html)
 - [Feature Unlearning: Theoretical Foundations and Practical Applications with Shuffling](https://proceedings.neurips.cc/paper_files/paper/2025/hash/113ae3a9762ca2168f860a8501d6ae25-Abstract-Conference.html)
 - [OpenGU: A Comprehensive Benchmark for Graph Unlearning](https://papers.neurips.cc/paper_files/paper/2025/hash/45d7dc2e7d8db0dbc13a88a4d6c08c5a-Abstract-Datasets_and_Benchmarks_Track.html)
