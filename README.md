@@ -30,7 +30,7 @@ Latest machine unlearning papers
 - [Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning](https://papers.neurips.cc/paper_files/paper/2025/hash/02443e4e008231e0af0855f3cc70ed17-Abstract-Conference.html)
 - [RULE: Reinforcement UnLEarning Achieves Forget-retain Pareto Optimality](https://papers.neurips.cc/paper_files/paper/2025/hash/3811007a23d95e7e239b6262337b98b9-Abstract-Conference.html)
 
-### Other recent Works
+## Other recent Works
 - [Representation Unlearning: Forgetting through Information Compression](https://arxiv.org/abs/2601.21564)
 - [SHRED: Retain-Set-Free Unlearning via Self-Distillation with Logit Demotion](https://arxiv.org/abs/2605.07482)
 - [Revisiting Privacy Leakage in Machine Unlearning: Membership Inference Beyond the Forgotten Set](https://arxiv.org/abs/2605.01129)
