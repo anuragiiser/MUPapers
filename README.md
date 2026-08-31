@@ -101,3 +101,27 @@ Latest machine unlearning papers
 - [SoK: Unlearnability and Unlearning for Model Dememorization](https://arxiv.org/abs/2605.11592)
 - [Open Problems in Machine Unlearning for AI Safety](https://arxiv.org/abs/2501.04952)
 
+## <span style="color:#4F46E5">Benchmarks</span>
+
+### <span style="color:#2563EB">LLM Unlearning</span>
+
+* [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121), COLM 2024
+* [MUSE: Machine Unlearning Six-Way Evaluation for Language Models](https://arxiv.org/abs/2407.06460), ICLR 2025
+* [The WMDP Benchmark: Measuring and Reducing Malicious Use with Unlearning](https://arxiv.org/abs/2403.03218), ICML 2024
+* [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2406.10890), NeurIPS 2024 D&B
+* [LUME: LLM Unlearning with Multitask Evaluations](https://aclanthology.org/2025.findings-emnlp.347/), Findings of EMNLP 2025
+* [BLUR: A Benchmark for LLM Unlearning Robust to Forget-Retain Overlap](https://arxiv.org/abs/2506.15699)
+
+### <span style="color:#2563EB">Multimodal / Vision-Language</span>
+
+* [MLLMU-Bench: Protecting Privacy in Multimodal Large Language Models](https://arxiv.org/abs/2410.22108)
+* [CLEAR: Character Unlearning in Textual and Visual Modalities](https://arxiv.org/abs/2410.18057)
+* [MU-Bench: A Multitask Multimodal Benchmark for Machine Unlearning](https://arxiv.org/abs/2406.14796)
+
+### <span style="color:#2563EB">Diffusion / Concept Erasure</span>
+
+* [Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning](https://arxiv.org/abs/2410.05664), ICCV 2025
+
+### <span style="color:#2563EB">Frameworks</span>
+
+* [OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics](https://arxiv.org/abs/2506.12618) · [code](https://github.com/locuslab/open-unlearning), unified implementation of TOFU, MUSE, and many baselines
