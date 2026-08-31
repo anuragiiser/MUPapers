@@ -1,6 +1,34 @@
 # MUPapers
 Latest machine unlearning papers
 
+## ICML 2026
+
+### LLM Unlearning
+- [Unlearning Isn't Deletion: Investigating Reversibility of Machine Unlearning in LLMs](https://icml.cc/virtual/2026/poster/65395)
+- [Leak@k: Unlearning Does Not Make LLMs Forget Under Probabilistic Decoding](https://icml.cc/virtual/2026/poster/61231)
+- [Multilingual Unlearning in LLMs: Transfer, Dynamics, and Reversibility](https://icml.cc/virtual/2026/poster/64258)
+- [De-attribute to Forget for LLM Unlearning](https://icml.cc/virtual/2026/poster/66664)
+- [ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models](https://icml.cc/virtual/2026/poster/60862)
+- [LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation](https://icml.cc/virtual/2026/poster/62503)
+- [ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models](https://icml.cc/virtual/2026/poster/65450)
+- [Beyond Sample-Level Forgetting: Improving Reliability in Multimodal Unlearning](https://icml.cc/virtual/2026/poster/65780)
+- [Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance](https://icml.cc/virtual/2026/poster/66060)
+
+### Machine Unlearning
+- [Unlearning Isn't Forgetting: Revealing Hidden Leakage in Class Unlearning Evaluations](https://icml.cc/virtual/2026/poster/60958)
+- [Unlearning with Asymmetric Sources: Improved Unlearning-Utility Trade-off with Public Data](https://icml.cc/virtual/2026/poster/66791)
+- [Trajectory-Aware Certified Decentralized Unlearning via SGD Stability](https://icml.cc/virtual/2026/poster/66400)
+- [Exact Unlearning in Reinforcement Learning](https://icml.cc/virtual/2026/poster/61630)
+- [Forgetting Whenever You Want: A Decentralized Continual Learning Framework with On-Demand Unlearning](https://icml.cc/virtual/2026/poster/61506)
+- [The Forgetting-Retention Dilemma: Certified Unlearning Theory in Continual Learning](https://arxiv.org/abs/2606.29832)
+- [Tackling Fake Forgetting through Uncertainty Quantification](https://icml.cc/virtual/2026/poster/61287)
+
+### Diffusion / Concept Unlearning
+- [A Unified Framework for Diffusion Model Unlearning with f-Divergence](https://icml.cc/virtual/2026/poster/66124)
+- [Unlearning in Diffusion Models: A Unified Framework with KL Divergence and Likelihood Constraints](https://icml.cc/virtual/2026/poster/65884)
+- [UnHype: CLIP-Guided Hypernetworks for Dynamic LoRA Unlearning](https://icml.cc/virtual/2026/poster/62857)
+- [Z-Erase: Enabling Concept Erasure in Single Stream Diffusion Transformers](https://icml.cc/virtual/2026/poster/62596)
+
 ## WWW 2026
 - [Towards Practical LLM Unlearning: Efficient, Modular, and Retain-Free](https://www2026.thewebconf.org/accepted/research-tracks.html#rfp1563)
 - [Re-understanding Graph Unlearning through Memorization](https://www2026.thewebconf.org/accepted/research-tracks.html#rfp1913)
