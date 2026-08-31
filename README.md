@@ -1,6 +1,20 @@
 # MUPapers
 Latest machine unlearning papers
 
+## EMNLP 2025
+
+### Main
+- [SEPS: A Separability Measure for Robust Unlearning in LLMs](https://aclanthology.org/2025.emnlp-main.283/)
+- [Reasoning Model Unlearning: Forgetting Traces, Not Just Answers, While Preserving Reasoning Skills](https://aclanthology.org/2025.emnlp-main.220/)
+- [Unlearning vs. Obfuscation: Are We Truly Removing Knowledge?](https://aclanthology.org/2025.emnlp-main.577/)
+- [Model Unlearning via Sparse Autoencoder Subspace Guided Projections](https://aclanthology.org/2025.emnlp-main.1348/)
+- [REVIVING YOUR MNEME: Predicting The Side Effects of LLM Unlearning and Fine-Tuning via Sparse Model Diffing](https://aclanthology.org/2025.emnlp-main.1641/)
+
+### Findings
+- [LUME: LLM Unlearning with Multitask Evaluations](https://aclanthology.org/2025.findings-emnlp.347/)
+- [Not Every Token Needs Forgetting: Selective Unlearning Balancing Forgetting and Utility in Large Language Models](https://aclanthology.org/2025.findings-emnlp.96/)
+- [Reveal and Release: Iterative LLM Unlearning with Self-generated Data](https://aclanthology.org/2025.findings-emnlp.1298/)
+
 ## ICML 2026
 
 ### LLM Unlearning
