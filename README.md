@@ -83,3 +83,21 @@ Latest machine unlearning papers
 - [SHRED: Retain-Set-Free Unlearning via Self-Distillation with Logit Demotion](https://arxiv.org/abs/2605.07482)
 
 
+## Surveys
+
+### LLM / Generative AI Unlearning
+- [Rethinking Machine Unlearning for Large Language Models](https://www.nature.com/articles/s42256-025-00985-0) — *Nature Machine Intelligence*, 2025
+- [A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models](https://arxiv.org/abs/2503.01854)
+- [A Survey on Unlearning in Large Language Models](https://arxiv.org/abs/2510.25117)
+- [A Survey on Large Language Models Unlearning: Taxonomy, Evaluations, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11376-7) — *Artificial Intelligence Review*, 2025
+- [SoK: Machine Unlearning for Large Language Models](https://arxiv.org/abs/2506.09227)
+- [Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](https://arxiv.org/abs/2404.02062) — *Artificial Intelligence Review*, 2025
+- [Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516)
+
+### General Machine Unlearning
+- [A Survey of Machine Unlearning](https://dl.acm.org/doi/full/10.1145/3749987) — *ACM Computing Surveys*, 2025
+- [Machine Unlearning: A Comprehensive Survey](https://arxiv.org/abs/2405.07406)
+- [Machine Unlearning: Taxonomy, Metrics, Applications, Challenges, and Prospects](https://arxiv.org/abs/2403.08254) — *IEEE TNNLS*, 2025
+- [SoK: Unlearnability and Unlearning for Model Dememorization](https://arxiv.org/abs/2605.11592)
+- [Open Problems in Machine Unlearning for AI Safety](https://arxiv.org/abs/2501.04952)
+
