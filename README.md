@@ -1,7 +1,7 @@
 # MUPapers
 Latest machine unlearning papers
 
-## EMNLP 2026
+## EMNLP 2025
 
 ### Main
 - [SEPS: A Separability Measure for Robust Unlearning in LLMs](https://aclanthology.org/2025.emnlp-main.283/)
